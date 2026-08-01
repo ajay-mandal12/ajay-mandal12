@@ -11,10 +11,10 @@
 
 
 ## 🌐 Socials:
-[![Facebook](https://www.facebook.com/share/1DQQq9yBG4/)](https://facebook.com/Ajay mandal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mandalarbin73@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ajaymandal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandalarbin73@gmail.com)
 
 # 💻 Tech Stack:
-## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
