@@ -1,12 +1,12 @@
 # Hi, I'm Ajay Mandal 👋
 
 🌱 Beginner web developer passionate about learning and building websites.  
-💻 Creating modern, responsive, and interactive projects step by step.  
+💻 Creating modern, responsive, and interactive web pages.
 🚀 My goal is to grow into a full‑stack developer.  
 
 # 💫 About Me:
 🎓 Student at KIIT University  
-🌱 Exploring web development and artificial intelligence  
+🌱 Exploring web development and AI.  
 💻 Working toward building full‑stack applications  
 
 
