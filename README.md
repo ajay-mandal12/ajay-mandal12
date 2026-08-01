@@ -2,6 +2,7 @@
 
 🌱 Beginner web developer passionate about learning and building websites.  
 💻 Creating modern, responsive, and interactive web pages.
+
 🚀 My goal is to grow into a full‑stack developer.  
 
 # 💫 About Me:
