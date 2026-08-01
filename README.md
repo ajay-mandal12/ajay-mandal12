@@ -1,17 +1,14 @@
 # Hi, I'm Ajay Mandal 👋
+## About Me
 
-🌱 Beginner web developer passionate about learning and building websites.  
-💻 Creating modern, responsive, and interactive web pages.
-🚀 My goal is to grow into a full‑stack developer.  
-
-# 💫 About Me:
 🎓 Student at KIIT University  
-🌱 Exploring web development and AI.  
+
+🌱 Exploring web development and artificial intelligence  
+
 💻 Working toward building full‑stack applications  
+   
 
 ## 🌐 Socials
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/https://www.facebook.com/share/1DQQq9yBG4/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandalarbin73@gmail.com)
 
 
